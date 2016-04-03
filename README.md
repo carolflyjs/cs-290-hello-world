@@ -1,2 +1,2 @@
 # cs-290-hello-world
-follow demo
+Assignment 1. Two text files included. 
